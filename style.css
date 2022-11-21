@@ -16,10 +16,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
     background-color: hsl(30, 38%, 92%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
 }
 
 .attribution { 
@@ -38,9 +34,9 @@ body{
 
 .card {
    position: relative;
-   /*width: 80%;/*
+   width: 80%;
    max-width: 600px;
-   /*height: 450px;/*
+   height: 450px;
    margin: 120px auto;
    background-color: hsl(0, 0%, 100%);
    border-radius: 10px;
