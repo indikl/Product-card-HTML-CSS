@@ -74,6 +74,7 @@ img {
     color: hsl(212, 21%, 14%);
     opacity: 0.6;
     margin: 20px 20px;
+    letter-spacing: 0.3em;
 }
 
 .title {
